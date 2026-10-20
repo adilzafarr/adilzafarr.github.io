@@ -14,19 +14,19 @@ window.SITE = {
   name: "Adil Zafar",
   initials: "AZ",
   title: "Data & AI/ML Engineer",
-  email: "[EMAIL]",
+  email: "adilzafardev@gmail.com",
 
   // Links used in the nav, hero and footer. Put your CV file in the repo as cv.pdf.
   links: {
     cv: "cv.pdf",
-    github: "https://github.com/[USERNAME]",
-    linkedin: "https://www.linkedin.com/in/[USERNAME]"
+    github: "https://github.com/adilzafarr",
+    linkedin: "https://www.linkedin.com/in/adil-zafar-dev"
   },
 
   hero: {
     label: "Data & AI/ML Engineer",
     headline: "I build the data pipelines that machine learning runs on.",
-    intro: "I'm a data and AI/ML engineer. I design the pipelines, platforms and models that turn raw data into features, training sets and machine learning systems that hold up in production."
+    intro: "I'm a Data and AI/ML engineer. I design the pipelines, platforms and models that turn raw data into features, training sets and machine learning systems that hold up in production."
   },
 
   // The five-step diagram under the hero.
