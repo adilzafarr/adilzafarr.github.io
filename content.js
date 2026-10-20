@@ -133,13 +133,14 @@ window.SITE = {
     { name: "Data engineering",      items: ["Python", "SQL", "Spark", "Airflow", "dbt", "Kafka", "Snowflake", "BigQuery"] },
     { name: "Machine learning & AI", items: ["PyTorch", "scikit-learn", "Hugging Face", "LLMs", "RAG", "Vector DBs"] },
     { name: "MLOps",                 items: ["MLflow", "Feature stores", "Model serving", "Monitoring"] },
-    { name: "Cloud & infra",         items: ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"] }
+    { name: "Cloud & infra",         items: ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"] },
+    { name: "Monitoring & observability", items: ["Prometheus", "Grafana", "Datadog", "OpenTelemetry", "ELK Stack", "Evidently AI"] }
   ],
 
   education: {
     degrees: [
-      { type: "Master's degree",   year: "[YEAR]", title: "[MS in Subject]", school: "[University name]", note: "[Focus, thesis or standout coursework]" },
-      { type: "Bachelor's degree", year: "[YEAR]", title: "[BS in Subject]", school: "[University name]", note: "[Focus or standout coursework]" }
+      { type: "Master's degree",   title: "MS in Artificial Intelligence", school: "Lahore University of Management Sciences (LUMS)", note: "[Focus, thesis or standout coursework]" },
+      { type: "Bachelor's degree", title: "BS in Software Engineering", school: "COMSATS University Lahore", note: "[Focus or standout coursework]" }
     ],
     certifications: [
       { issuer: "Udemy", year: "[YEAR]", title: "[Course name]", note: "[What it covered]", link: "" }
